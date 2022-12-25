@@ -12,27 +12,27 @@
          margin-left:300px;}
 .topcontainer {background-color: #EAF6F6;
                padding-top: 100px;}
-.bottomcloud {width:900px;
-           height:700px;}
+.bottomcloud {width:1500px;
+           height:1000px;}
 body {background-color: #ffffff;
       margin:0;
     color: #40514E;
 text-align: center;
  font-family: 'Merriweather', serif;
-  font-size: 3rem;}
+  font-size: 5rem;}
 h1 {margin: 50px auto 0 auto;
     font-family: 'Sacramento', cursive;
-    font-size: 7rem;
+    font-size: 10rem;
     color:#66BFBF;}
 p {line-height: 2;}
 h2 {font-family: 'Montserrat', sans-serif;
-     font-size: 5rem;
+     font-size: 7rem;
       color:#66BFBF;
        font-weight: normal;}
 h3{font-family: 'Montserrat', sans-serif;
     color:#11999E;}
     .designer {color: #40514E;
-               width: 50%;
+               width: 70%;
                margin-left: auto;
              margin-right: auto;}
     hr {border-style: dotted;
@@ -42,21 +42,21 @@ h3{font-family: 'Montserrat', sans-serif;
       .profile {margin-top: 100px;
                 margin-bottom: 100px;}
       .contact-message {margin: 40px auto 40px auto;
-                width: 50%;}
-.profilephoto {height: 200px;
-              width: 200px;}
-.coding      {height: 400px;
-              width: 400px;
+                width: 70%;}
+.profilephoto {height: 400px;
+              width: 400px;}
+.coding      {height: 800px;
+              width: 800px;
               float: left;
             margin-right: 30px;}
-.swimming {height: 400px;
-              width:400px;
+.swimming {height: 800px;
+              width:800px;
               float: right;
             margin-left: 30px;}
 a{color:#11999E;
  text-decoration: none;}
  a:hover {color:#EAF6F6 }
-.skill-row {width:50%;
+.skill-row {width:70%;
            margin: 100px auto 100px auto;
          text-align: left;
          line-height: 2;}
@@ -94,3 +94,4 @@ a{color:#11999E;
                       color:#11999E }
         .name {margin-bottom: 0;
                 color:#EAF6F6;}
+
